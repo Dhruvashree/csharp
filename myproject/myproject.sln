@@ -9,6 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		HideSolutionNode = TRUE
 	EndGlobalSection
 EndGlobal
